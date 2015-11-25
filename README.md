@@ -1,8 +1,8 @@
 ## About fibjs_clmtrackr
 
-本项目是为fibjs做的clmtrackr项目移植
+本项目是为 fibjs 做的 clmtrackr 项目移植
 
-用于在后端使用JavaScript进行人脸识别
+用于在后端使用 JavaScript 进行人脸识别
 
 ***fibjs Source:*** https://github.com/xicilion/fibjs
 
